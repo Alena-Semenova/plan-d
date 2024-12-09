@@ -49,7 +49,6 @@ router.post('/register', async (req: Request, res: Response) => {
   }
 });
 
-
 /**
  * POST /login
  * Вход пользователя
