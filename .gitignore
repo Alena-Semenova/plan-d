@@ -46,3 +46,4 @@ frontend/public/static/
 backend/node_modules/
 backend/build/
 backend/dist/
+backend/config/config.json
